@@ -1,0 +1,4 @@
+.idea
+.idea/**
+target
+/jackson-ignore-test.iml
